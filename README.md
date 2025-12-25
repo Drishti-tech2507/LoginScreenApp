@@ -24,11 +24,10 @@ This app validates user input using strict rules for username and password to de
 
 https://github.com/Drishti-tech2507/LoginScreenApp/blob/main/login_demo.mp4
 
-https://github.com/Drishti-tech2507/LoginScreenApp/blob/main/Screenshot_20251225_220941.png
-https://github.com/Drishti-tech2507/LoginScreenApp/blob/main/Screenshot_20251225_221022.png
-https://github.com/Drishti-tech2507/LoginScreenApp/blob/main/Screenshot_20251225_221043.png
-https://github.com/Drishti-tech2507/LoginScreenApp/blob/main/Screenshot_20251225_221109.png
-https://github.com/Drishti-tech2507/LoginScreenApp/blob/main/Screenshot_20251225_221132.png
+https://github.com/Drishti-tech2507/LoginScreenApp/blob/main/Screenshot_20251225_235800.png
+https://github.com/Drishti-tech2507/LoginScreenApp/blob/main/Screenshot_20251225_235846.png
+https://github.com/Drishti-tech2507/LoginScreenApp/blob/main/Screenshot_20251225_235859.png
+https://github.com/Drishti-tech2507/LoginScreenApp/blob/main/Screenshot_20251225_235924.png
 
 ---
 
